@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+header{
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 0px 7% 0px 7%;
+}
+
+nav img{
+    height: 60px;
+    display: inline;
+}
+
+nav{
+    display: flex;
+    gap: 66%;
+}
+
+.hero-secondary-text, a{
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+header .hero-main-text{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.header-links-div{
+    display: flex;
+    gap: 22px;
+    align-items: center;
+}
