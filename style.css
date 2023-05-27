@@ -32,7 +32,7 @@ nav{
     justify-content: space-between;
 }
 
-.hero-secondary-text, a{
+.hero-secondary-text, a , .hero-secondary-text-dark{
     font-weight: 300;
     font-size: 18px;
     color: #e5e7eb;
@@ -66,12 +66,13 @@ header .second-header-div{
     font-weight: 700;
 }
 
-.main-text-div{
+
+.main-text-div{ 
     width: 440px;
 }
 
 .main-image{
-    height: 50vh;
+    height: 380px;
 }
 
 .section-one{
@@ -84,4 +85,21 @@ header .second-header-div{
     font-weight: bold;
     color: #1f2937;
     justify-content: center;
+}
+
+.three-topics{
+    margin-top: 50px;
+    height: 600px;
+    display: flex;
+    gap: 110px;
+    justify-content: center;
+}
+
+.three-topics div img{
+    height: 140px;
+}
+
+.hero-secondary-text-dark{
+    width: 184px;
+    color: black;
 }
