@@ -89,7 +89,7 @@ header .second-header-div{
 
 .three-topics{
     margin-top: 50px;
-    height: 600px;
+    height: 460px;
     display: flex;
     gap: 110px;
     justify-content: center;
@@ -102,4 +102,25 @@ header .second-header-div{
 .hero-secondary-text-dark{
     width: 184px;
     color: black;
+}
+
+.section-quote{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-quote .quote-text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    margin-top: 120px;
+    margin-bottom: 14px;
+}
+
+.section-quote-inner-div{
+    width: 720px;
+    margin-bottom: 70px;
 }
