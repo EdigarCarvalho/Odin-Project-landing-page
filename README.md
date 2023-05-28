@@ -1,4 +1,7 @@
 # Odin-Project-landing-page
+
+Project created to fulfill the challenge of the <a href="https://www.theodinproject.com/lessons/foundations-landing-page"> Odin-Project </a>, which is to create a landing-page based on <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png">a predetermined design </a> using mostly HTML and CSS.
+
 # Credits
 
 Main gif -> Illustration by Viktoriya Belinio from Ouch!Illustration by 
