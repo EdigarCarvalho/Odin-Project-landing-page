@@ -75,7 +75,7 @@ header .second-header-div{
     height: 390px;
 }
 
-.section-one{
+.section-one, .section-contact{
     background-color: #fff;
 }
 
@@ -122,5 +122,46 @@ header .second-header-div{
 
 .section-quote-inner-div{
     width: 720px;
-    margin-bottom: 70px;
+    margin-bottom: 90px;
+}
+
+.section-quote-inner-div strong{
+    margin-left: 32%;
+    font-size: 18px;
+}
+
+
+.section-contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 320px;
+}
+
+.section-contact-inner-div{
+    background-color: #3882f6;
+    border-radius: 9px;
+    width: 700px;
+    color: #f9faf8;
+    padding: 48px 110px 48px 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.transparent-button{
+    color: #f9faf8;
+    background-color: transparent;
+    border: 2px solid #f9faf8;
+    border-radius: 8px;
+    padding: 8px 20px 8px 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.section-contact-inner-div strong{
+    font-size: 20px;
+}
+.section-contact-inner-div p{
+    margin: 2px 0px 0px 0px;
 }
